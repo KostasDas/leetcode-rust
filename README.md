@@ -20,3 +20,4 @@ I tried not to use AI since this is a learning process, but I did ask for hints 
 | 3310 | [Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project/description) | [`remove_methods.rs`](src/bin/remove_methods.rs) | Medium | Graph traversal (BFS on adjacency list), reachability | ✅ |
 | 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements/description) | [`find_missing_elements.rs`](src/bin/find_missing_elements.rs) | Easy | Sorting / range scan | ✅
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) | [`longest_palidrome.rs`](src/bin/longest_palindrome.rs) | Medium | Sorting / range scan | ✅ |
+| 1386 | [Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation/description/) | [`cinema_seat_allication.rs`](src/bin/cinema_seat_allication.rs) | Medium | Array iteration / Linear search | ☑️ (Does not pass performance tests) |
