@@ -22,3 +22,4 @@ I tried not to use AI since this is a learning process, but I did ask for hints 
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) | [`longest_palidrome.rs`](src/bin/longest_palindrome.rs) | Medium | Sorting / range scan | ✅ |
 | 1386 | [Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation/description/) | [`cinema_seat_allication.rs`](src/bin/cinema_seat_allication.rs) | Medium | Array iteration / Linear search | ☑️ (Does not pass performance tests) |
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) | [`container.rs`](src/bin/container.rs) | Medium | Array iteration | ✅ |
+| 6 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/description/) | [`zigzag.rs`](src/bin/zigzag.rs) | Medium | String, Row Indexing | ✅ |
